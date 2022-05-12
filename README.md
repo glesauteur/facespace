@@ -1,4 +1,20 @@
 # FaceSpace
+This Facespace app is very simplified version of a social network application. You can sign in, add friends and scroll their profile. 
+The use of the localstorage is there to make sure the person stays signed in.
+The API has been built following the REST principles.
+
+## How to run the app
+Open 2 terminals: 
+
+To run the frontend: 
+- `cd frontend`
+- `yarn install`
+- `yarn dev:frontend`
+
+To run the backend (server): 
+- `cd backend`
+- `yarn install`
+- `dev:backend`
 
 ## Visuals of the Facespace app
 <img width="1438" alt="Screen Shot 2022-05-12 at 3 14 18 PM" src="https://user-images.githubusercontent.com/11652333/168168428-f93114d8-9910-4d73-8fef-b5e4f5e3fcaa.png">
