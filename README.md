@@ -14,7 +14,7 @@ To run the frontend:
 To run the backend (server): 
 - `cd backend`
 - `yarn install`
-- `dev:backend`
+- `yarn dev:backend`
 
 ## Visuals of the Facespace app
 <img width="1438" alt="Screen Shot 2022-05-12 at 3 14 18 PM" src="https://user-images.githubusercontent.com/11652333/168168428-f93114d8-9910-4d73-8fef-b5e4f5e3fcaa.png">
